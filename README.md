@@ -1,6 +1,8 @@
 # 7waySwitch
 7-Way Multi-Directional Switch
 
+There are branches for Arduino and SimHub.  Sample code and connection schematics are available.
+
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
